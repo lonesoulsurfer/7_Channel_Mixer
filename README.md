@@ -2,13 +2,14 @@
 
 7 Channel Mixer - Circuit Explanation
 
-This is a passive-input, op-amp buffered audio mixer built around an NE5532N dual op-amp. Here's how it works from input to output:
+This is a passive-input, op-amp buffered audio mixer built around an NE5532N dual op-amp. 
+
+Here's how it works from input to output:
+
+
 Input Stage (7 Channels)
 
-
-Each of the 7 channels 
-
-(IN_1 through IN_7) follows the same structure. A 3-pin connector feeds into a 100K potentiometer (VOL_1 through VOL_7) which acts as the individual channel volume control. The wiper of each pot connects through a 47K resistor to a common summing node. The 47K resistors serve as summing/isolation resistors — they prevent channels from loading each other and set the gain relationship between channels.
+Each of the 7 channels (IN_1 through IN_7) follows the same structure. A 3-pin connector feeds into a 100K potentiometer (VOL_1 through VOL_7) which acts as the individual channel volume control. The wiper of each pot connects through a 47K resistor to a common summing node. The 47K resistors serve as summing/isolation resistors — they prevent channels from loading each other and set the gain relationship between channels.
 
 
 Summing & First Op-Amp Stage (IC1A)
