@@ -3,13 +3,13 @@
 ![SITY5105](https://github.com/user-attachments/assets/4affd6e6-1416-44bb-b044-ade57a7789da)
 
 
-Video - TBA
+Video - [TBA](https://youtu.be/h-TxdCl6BcE)
 
 Instructables - TBA
 
-Here you can find everything you need to make your own 7 Channel Mixer.  This is based on Syntherjacks awesome little 4sum mixer which you can find a link below to.  My modular synth runs off 9/5V so this amp works perfectly for what I need.  You could also power it via traditional Eurorack sty;e powering, you would just have to add a step down converter from the mixer to the 12V power source.
+Here you can find everything you need to make your own 7 Channel Mixer.  This is based on Syntherjacks awesome little 4sum mixer which you can find a link below to.  My modular synth runs off 9/5V so this amp works perfectly for what I need.  You could also power it via traditional Eurorack style powering, you would just have to add a step down converter from the mixer to the 12V power source.
 
-I have also included a Eurorack 4 channel version as well which will fit perfectly into amy Eurorack.
+I have also included a Eurorack 4 channel version as well which will fit perfectly into any Eurorack.
 
 https://syntherjack.net/portable-audio-mixer/
 
