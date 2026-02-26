@@ -5,7 +5,7 @@
 
 YouTube - https://youtu.be/h-TxdCl6BcE
 
-Instructables - TBA
+Instructables - https://www.instructables.com/7-Channel-Mixer-a-4-Channel-Option/
 
 Here you can find everything you need to make your own 7 Channel Mixer.  This is based on Syntherjacks awesome little 4sum mixer which you can find a link below to.  My modular synth runs off 9/5V so this amp works perfectly for what I need.  You could also power it via traditional Eurorack style powering, you would just have to add a step down converter from the mixer to the 12V power source.
 
